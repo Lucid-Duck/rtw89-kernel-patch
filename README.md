@@ -1,5 +1,9 @@
 # rtw89 USB TX Flow Control Patch
 
+> **This repo has been superseded by [tx-resources-flow-control](https://github.com/Lucid-Duck/tx-resources-flow-control)**, which contains the v2 patch series, full test results, and mailing list status. This repo is archived for historical reference.
+
+---
+
 Patch for linux-wireless mailing list - fixes mac80211 TX flow control contract violation in rtw89 USB driver.
 
 ## Status
@@ -7,7 +11,7 @@ Patch for linux-wireless mailing list - fixes mac80211 TX flow control contract 
 - [x] v1 submitted to linux-wireless (2026-01-25)
 - [x] Review feedback received from Ping-Ke Shih and Bitterblue Smith
 - [x] USB2/USB3 throughput testing complete
-- [ ] v2 in progress addressing review comments
+- [x] **v2 submitted** — see [tx-resources-flow-control](https://github.com/Lucid-Duck/tx-resources-flow-control)
 
 ## Test Results Summary
 
