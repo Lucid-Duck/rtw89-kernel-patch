@@ -11,7 +11,7 @@ Patch for linux-wireless mailing list - fixes mac80211 TX flow control contract 
 - [x] v1 submitted to linux-wireless (2026-01-25)
 - [x] Review feedback received from Ping-Ke Shih and Bitterblue Smith
 - [x] USB2/USB3 throughput testing complete
-- [x] **v2 submitted** — see [tx-resources-flow-control](https://github.com/Lucid-Duck/tx-resources-flow-control)
+- [x] **v2 submitted** -- see [tx-resources-flow-control](https://github.com/Lucid-Duck/tx-resources-flow-control)
 
 ## Test Results Summary
 
